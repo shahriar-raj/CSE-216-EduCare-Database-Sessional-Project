@@ -1,0 +1,39 @@
+.left1d {
+    float: left;
+    width: 25%;
+    padding-top: 100px;
+    padding-left: 100px;
+    font-size: larger;
+    height: 1000px;
+}
+
+.middled {
+    float: left;
+    width: 45%;
+    padding-top: 30px;
+    padding-left: 80px;
+    font-size: large;
+}
+
+.rightd {
+    float: right;
+    width: 30%;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.HeadD {
+    text-align: center;
+}
+
+.mid1d {
+    float: left;
+    width: 25%;
+    align-items: center;
+}
+
+.mid2d {
+    float: right;
+    width: 25%;
+    align-items: center;
+}

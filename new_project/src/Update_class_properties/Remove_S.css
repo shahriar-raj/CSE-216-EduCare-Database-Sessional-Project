@@ -1,0 +1,29 @@
+.RSB {
+    background-color: grey;
+    height: 1000px;
+}
+
+.countmeter1 {
+    float: right;
+    width: 25%;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+
+.stl1 {
+    float: left;
+    width: 50%;
+    margin-left: 200px;
+}
+
+.SC1 {
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: brown;
+}
+
+.RASS {
+    font-size: larger;
+    text-align: left;
+}

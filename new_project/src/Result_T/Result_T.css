@@ -1,0 +1,38 @@
+.boxF {
+    width: 100px;
+}
+
+.Head2RT {
+    padding-left: 450px;
+}
+
+.HeadRT {
+    text-align: center;
+}
+
+.FM {
+    margin-left: 125px;
+}
+
+.RTleft {
+    padding-left: 450px;
+}
+
+.bdgr {
+    width: 400px;
+    text-align: left;
+    font-size: larger;
+}
+
+.RTD {
+    background-color: rgb(155, 152, 152);
+    height: 1000px;
+}
+
+.RASTL {
+    padding-left: 550px;
+}
+
+.RASTR {
+    padding-right: 350px;
+}

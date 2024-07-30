@@ -1,0 +1,34 @@
+.TList {
+    margin: 25 px;
+    padding-left: 20 px;
+    background-color: rgb(24, 23, 23);
+}
+
+.TList li {
+    padding-top: 28px;
+    padding-left: 300px;
+}
+
+.btntc {
+    margin-left: 35rem;
+    height: 40px;
+    color: white;
+}
+
+.HeadT {
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255, 249, 249);
+    /* padding-top: 50px; */
+}
+
+.tc_1 {
+    background-color: rgb(24, 23, 23);
+    height: 1000px;
+}
+
+.Btnbck {
+    background-color: rgb(24, 23, 23);
+    text-align: center;
+    padding-bottom: 70px;
+}

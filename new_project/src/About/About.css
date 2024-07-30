@@ -1,0 +1,41 @@
+.ab {
+
+    font-weight: bolder;
+    /* float: left;
+    width: 50%; */
+    background-color: rgb(97, 104, 135);
+    height: 706px;
+}
+
+.head {
+    text-align: center;
+}
+
+.body {
+    text-align: center;
+    font-size: 30px;
+}
+
+.i1 {
+    float: left;
+    width: 25%;
+    padding-left: 90px;
+}
+
+.i2 {
+    float: left;
+    width: 25%;
+    padding-left: 90px;
+}
+
+.i3 {
+    float: left;
+    width: 25%;
+    padding-left: 90px;
+}
+
+.i4 {
+    float: left;
+    width: 25%;
+    padding-left: 90px;
+}

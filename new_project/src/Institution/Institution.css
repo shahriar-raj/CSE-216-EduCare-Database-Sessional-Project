@@ -1,0 +1,24 @@
+.left {
+    float: left;
+    width: 30%;
+    height: 1000px;
+    background-color: rgb(76, 76, 82);
+    text-align: center;
+}
+
+.right {
+    float: right;
+    width: 70%;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.Header {
+    padding-top: 50px;
+    font-weight: bolder;
+}
+
+.hj {
+    color: rgb(227, 232, 236);
+    font-weight: bold;
+}

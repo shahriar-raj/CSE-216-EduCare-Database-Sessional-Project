@@ -1,0 +1,26 @@
+.InsList {
+    margin: 25 px;
+    padding-left: 20 px;
+}
+
+.InsList li {
+    padding-top: 28px;
+    padding-left: 300px;
+}
+
+.add {
+    margin-right: 25rem;
+    margin-left: 18rem;
+    margin-top: 30px;
+}
+
+.bck1 {
+    margin-left: 42rem;
+    margin-top: 30px;
+}
+
+.Head {
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(50, 50, 51);
+}

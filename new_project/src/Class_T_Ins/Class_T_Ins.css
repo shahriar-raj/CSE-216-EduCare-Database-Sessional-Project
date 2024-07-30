@@ -1,0 +1,54 @@
+.leftCIT {
+    float: left;
+    width: 55%;
+    background-color: black;
+    height: 1000px;
+}
+
+.rightCIT {
+    float: right;
+    width: 45%;
+    background-color: grey;
+    height: 1000px;
+    text-align: center;
+}
+
+.HCIT {
+    text-align: center;
+    color: grey;
+}
+
+.BCIT {
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(205, 197, 197);
+    margin-left: 200px;
+    text-align: left;
+    width: 400px;
+}
+
+.LCIT {
+    margin-left: 200px;
+    color: rgb(182, 172, 172);
+}
+
+.BTNUCT {
+    margin-top: 100px;
+    width: 350px;
+    font-size: xx-large;
+    color: brown;
+}
+
+.BTNUHT {
+    margin-top: 50px;
+    width: 350px;
+    font-size: xx-large;
+    color: brown;
+}
+
+.BTNATT {
+    margin-top: 50px;
+    width: 350px;
+    font-size: xx-large;
+    color: brown;
+}

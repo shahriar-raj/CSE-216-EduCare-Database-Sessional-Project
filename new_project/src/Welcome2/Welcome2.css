@@ -1,0 +1,18 @@
+.th {
+    padding-top: 100px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(196, 186, 186);
+    height: 1000px;
+}
+
+.he {
+    font-weight: 900;
+    color: brown;
+}
+
+.btn_wel {
+    font-size: large;
+}

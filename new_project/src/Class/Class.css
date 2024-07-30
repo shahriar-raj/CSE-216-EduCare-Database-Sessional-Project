@@ -1,0 +1,45 @@
+.InsList {
+    margin: 25 px;
+    padding-left: 20 px;
+    background-color: antiquewhite;
+}
+
+.InsList li {
+    padding-top: 28px;
+    padding-left: 300px;
+}
+
+.add {
+    margin-right: 25rem;
+    margin-left: 18rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 50px;
+}
+
+.bck {
+    margin-left: 25rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 50px;
+}
+
+.Head {
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(50, 50, 51);
+}
+
+.buttons {
+    background-color: antiquewhite;
+}
+
+.pg {
+    background-color: antiquewhite;
+}
+
+.btnc {
+    margin-left: 35rem;
+    height: 40px;
+    color: rgb(120, 179, 119);
+}

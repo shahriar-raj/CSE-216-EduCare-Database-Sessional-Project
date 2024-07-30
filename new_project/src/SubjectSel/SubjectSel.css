@@ -1,0 +1,23 @@
+.form_su {
+    float: left;
+    margin-top: 20px;
+    margin-left: 350px;
+    width: 50%;
+    font-size: larger;
+}
+
+.btn_c {
+    height: 40px;
+}
+
+.options {
+    height: 100px;
+}
+
+.switches {
+    height: 80px;
+}
+
+.m_s{
+    background-color: antiquewhite;
+}

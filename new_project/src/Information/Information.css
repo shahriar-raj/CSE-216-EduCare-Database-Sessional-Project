@@ -1,0 +1,15 @@
+.inr {
+    text-align: center;
+    float: right;
+    width: 50%;
+    padding-top: 30px;
+}
+
+.inl {
+    text-align: center;
+    float: left;
+    width: 50%;
+    padding-top: 30px;
+    background-color: rgb(76, 76, 82);
+    height: 900px;
+}

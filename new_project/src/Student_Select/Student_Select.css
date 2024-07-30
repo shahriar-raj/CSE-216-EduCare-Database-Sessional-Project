@@ -1,0 +1,29 @@
+.stl {
+    float: left;
+    width: 50%;
+    margin-left: 350px;
+}
+
+.bdgstl {
+    width: 400px;
+    text-align: left;
+    font-size: large;
+}
+
+.countmeter {
+    float: right;
+    width: 20%;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+
+.SC {
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(195, 216, 196);
+}
+
+.why {
+    color: black;
+}

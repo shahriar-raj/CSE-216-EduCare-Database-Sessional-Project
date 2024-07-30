@@ -1,0 +1,22 @@
+.middleid {
+    padding-top: 80px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: large;
+}
+
+.HeadiD {
+    text-align: center;
+}
+
+.mid1id {
+    float: left;
+    width: 25%;
+    align-items: center;
+}
+
+.mid2id {
+    float: right;
+    width: 25%;
+    align-items: center;
+}

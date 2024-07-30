@@ -1,0 +1,109 @@
+.home-list {
+    margin: 25 px;
+    padding: 20 px;
+}
+
+.home-list li {
+    border: 2px solid #567855;
+    padding: 5px;
+    margin-left: 5px;
+    margin-right: 400px;
+    margin-top: 5px;
+    background-color: beige;
+}
+
+.header {
+    text-align: center;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    margin-right: 600px;
+    width: 500px;
+    padding: 20px;
+    color: aliceblue;
+}
+
+.App-logo {
+    height: 9vmin;
+    pointer-events: none;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.master {
+    width: auto;
+    height: 1000px;
+    background-color: antiquewhite;
+}
+
+.column {
+    background-color: rgb(114, 114, 114);
+    width: 1515px;
+    height: 100px;
+    position: static;
+}
+
+
+.l {
+    float: left;
+    width: 33%;
+    text-align: center;
+    background-color: blue;
+}
+
+.r {
+    float: left;
+    width: 67%;
+    text-align: center;
+    background-color: yellow;
+}
+
+.lp {
+    float: left;
+    width: 10%;
+}
+
+.rp {
+    float: left;
+    width: 40%;
+    text-align: left;
+}
+
+.nv {
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+
+.c3 {
+    height: 150px;
+    padding-top: 50px;
+}
+
+.only {
+    float: left;
+    width: 33%;
+}
+
+.no {
+    float: right;
+    text-align: center;
+    color: red;
+    width: 67%;
+}

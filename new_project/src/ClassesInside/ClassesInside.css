@@ -1,0 +1,72 @@
+.leftCI {
+    float: left;
+    width: 65%;
+    background-color: black;
+    height: 1000px;
+}
+
+.rightCI {
+    float: right;
+    width: 35%;
+    background-color: grey;
+    height: 1000px;
+    text-align: center;
+}
+
+.HCI {
+    text-align: center;
+    color: grey;
+}
+
+.BCI {
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(205, 197, 197);
+    margin-left: 200px;
+    text-align: left;
+    width: 400px;
+}
+
+.LCI {
+    margin-left: 200px;
+    color: rgb(182, 172, 172);
+}
+
+.BTNCI {
+    font-size: larger;
+    width: 150px;
+    margin-left: 200px;
+}
+
+.BTNUPT {
+    margin-top: 100px;
+    width: 300px;
+    font-size: x-large;
+}
+
+.BTNADDS {
+    margin-top: 50px;
+    width: 300px;
+    font-size: x-large;
+    color: green;
+}
+
+.BTNRMS {
+    margin-top: 50px;
+    width: 300px;
+    font-size: x-large;
+    color: brown;
+}
+
+.BTNUPR {
+    margin-top: 50px;
+    width: 300px;
+    font-size: x-large;
+}
+
+.BTNR {
+    margin-top: 50px;
+    width: 300px;
+    font-size: x-large;
+    color: rgb(96, 96, 207);
+}

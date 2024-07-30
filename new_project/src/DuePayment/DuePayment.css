@@ -1,0 +1,62 @@
+.dp {
+    padding-left: 400px;
+    background-color: grey;
+    height: 1000px;
+}
+
+.dp_li {
+    background-color: grey;
+}
+
+.dp_l {
+    float: left;
+    width: 50%;
+}
+
+.dp_r {
+    float: right;
+    width: 50%;
+    text-align: center;
+}
+
+.btn_dp {
+    width: 100px;
+}
+
+.headdp {
+    margin-left: 300px;
+}
+
+.mb-3_d {
+    color: black;
+    font-size: medium;
+}
+
+.f_dp {
+    width: 200px;
+    font-size: medium;
+    margin-left: 100px;
+}
+
+.dp_r1 {
+    float: left;
+    margin-left: 115px;
+    margin-top: 5px;
+}
+
+.dp_r2 {
+    float: right;
+    margin-right: 115px;
+    margin-top: 5px;
+    font-size: smaller;
+}
+
+.btn_dp_s {
+    font-size: smaller;
+}
+
+.btn_b_dp {
+    margin-left: 350px;
+    font-size: larger;
+    font-weight: bolder;
+}
